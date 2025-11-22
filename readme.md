@@ -20,4 +20,5 @@ Built using:
 - Clean command-line interface  
 - Saves output automatically to `resume_output.txt`  
 
-its should be perfectly imperfect
+its should be perfectly imperfect.
+
